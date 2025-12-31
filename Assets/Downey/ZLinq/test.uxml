@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:TreeView name="TreeView" />
+    <ui:Button text="Play" name="PlayButton" />
+    <ui:Button text="Settings" name="SettingsButton" />
+    <ui:Button text="Quit" name="QuitButton" />
+</ui:UXML>
