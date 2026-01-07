@@ -15,6 +15,7 @@ namespace Downey.Platformer
         public override void FixedUpdate()
         {
             //base.FixedUpdate();
+            //player
         }
     }
 }

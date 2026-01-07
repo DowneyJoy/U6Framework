@@ -79,5 +79,7 @@ namespace Downey.AdvancedController
             verticalMomentum -= tr.up * (gravity * Time.deltaTime);
             //if(stateMachine.CurrentState is GroundedState)
         }
+        
+        //bool IsGrounded()=> stateMachine.Cu
     }
 }
